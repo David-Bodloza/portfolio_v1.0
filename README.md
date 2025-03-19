@@ -1,1 +1,3 @@
-# portfolio_v1.0
+# Portfolio V2
+
+A freelance prep website.
